@@ -10,5 +10,9 @@ Author:  **Alessia Celli**
     $ gcc -o stats.out stats.c
     $ ./stats.out
 
+## Alternatively (using make):
+    $ make
+    $ ./stats.out
+
 
 
